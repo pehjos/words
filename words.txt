@@ -10,3 +10,4 @@
 -house
 -car
 -abroad
+-game
